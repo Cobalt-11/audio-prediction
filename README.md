@@ -1,6 +1,5 @@
 # Audio-prediction
----
-From audio, detect speaker gender and age (kid/adult).
+ - From audio, detect speaker gender and age (kid/adult).
 ---
 ### Things I need to do to make this work. 
  - Learn stuff about signal
